@@ -1,0 +1,7 @@
+in this folder there are the Scripts to convert the original files from  TIMIT database, in files ready to process
+
+to convert TIMIT you only need run  the script   ./make-run.sh 
+
+./ConverterDatabase.sh      convert wav and text files from TRAIN and TEST folders 
+./fix_Dictionary.sh         fix dictionary with most common words from promts TIMIT, and fix monophones 			    and questions files 
+

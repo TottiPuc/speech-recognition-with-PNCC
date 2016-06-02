@@ -1,0 +1,89 @@
+commit 931962bf602a47eafa681dc70429f240f6eb8a5c
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Mon Dec 7 20:03:00 2015 -0200
+
+    Database conversion directory
+
+commit d6b9dd8c85a65d2b65f2bfdf15b3f8046209e76e
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Mon Dec 7 18:35:39 2015 -0200
+
+    translation
+
+commit 75d8ef378269cf2912502b43229e679f44fd7faa
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Mon Dec 7 18:05:34 2015 -0200
+
+    script convert databese Aurora 4
+
+commit 037dd51c045b71072f1be788d1ecc76cb7b13f34
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Nov 25 16:39:57 2015 -0200
+
+    troca de nome
+
+commit 1ac8791fe0c68473ec08164ac9788770304ede88
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Oct 8 16:48:50 2014 -0300
+
+    finaldatabase  conversion
+
+commit 66f3b619c9d2a60a4453876077110747cd012f75
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Tue Oct 7 17:36:11 2014 -0300
+
+    sentenças sem numeros nem puntuações
+
+commit 952fb4bb138af9a71ed055d022cbf671c26819e5
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Thu Oct 2 00:43:27 2014 -0300
+
+    final da conversão de frases
+
+commit 1109e3e774c786dbdbbf1eb41ac047963a47a480
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Oct 1 19:40:30 2014 -0300
+
+    testes PHN apagando linhas de curta duração duplicadas final
+
+commit 69f47b9be32b312fc9615275d5414c946504b395
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Oct 1 19:39:12 2014 -0300
+
+    testes PHN apagando linhas de curta duração duplicadas
+
+commit 031a8f72f37d52631ce77e8536a0f1f2b622a40f
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Oct 1 18:09:39 2014 -0300
+
+    apagar linhas iguais
+
+commit 01fac9e1464ef11187134b09e75d30dd175a2045
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Mon Sep 29 13:14:14 2014 -0300
+
+    Script transformar banco de dados
+
+commit 4ce1e41507468b63b39d4089d195d4500676f6bd
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Wed Sep 24 17:08:37 2014 -0300
+
+    eliminação prova
+
+commit 2f8d78bc1b61f6ef7001d29b0d3d901f32c42034
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Tue Sep 23 20:32:37 2014 -0300
+
+    incluir databese
+
+commit 4be76c1e1849eec97ba2f2505b7ba30847aa107b
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Tue Sep 23 19:52:57 2014 -0300
+
+    iniciando reconocedor locutor
+
+commit 4ae104c7d65f4cf4c9039bcaf4cfd152ecea2063
+Author: TottiPuc <dayan3846@gmail.com>
+Date:   Tue Sep 23 19:45:35 2014 -0300
+
+    este es mi primer comit

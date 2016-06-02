@@ -1,0 +1,1 @@
+in this folder there are scripts to create language models for TIMIT and AURORA-4 databases   (monograms, bigrams and trigrams), the script separateDictionary.py writing in python is used only with TIMIT databese, it is responsible to separate the  words of your phonetic transcriptions, contained in TIMIT dictionary

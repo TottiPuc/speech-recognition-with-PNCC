@@ -1,0 +1,6 @@
+in this folder there are scripts to create phones for TIMIT and AURORA databases. the principal scripts are the .sh. the others scripts writing in python, contain important functions needed to create this phones
+
+./createPhones.py      		 prepare special dictionary and wordnet for monophone test
+./createMasterLabels.py 	 create a master label file, comparing phone and word files
+./generateTriphones.py		 generate all possible triphones combinations 
+./conFsilence.py		 configurações de silencio, realing, etc
